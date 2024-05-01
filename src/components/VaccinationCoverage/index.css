@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.coversge-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #1c1c2b;
+    border-radius: 10px;
+
+}
+.heading-bar-chart {
+  align-self: flex-start;
+  margin-left: 10px;
+}

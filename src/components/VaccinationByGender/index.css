@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.gender-pi-container {
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+
+  background-color: #1c1c2b;
+  width: 100%;
+}
+/* Write your CSS here */
+
+.heading-gender {
+  align-self: flex-start;
+  margin-left: 10px;
+}
